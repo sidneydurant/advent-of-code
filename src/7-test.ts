@@ -6,9 +6,7 @@ interface TestCase {
     expected: number;
 }
 
-
-
-var testCases7: TestCase[] = [
+const testCases7: TestCase[] = [
     {
         input: 
 `190: 10 19`,
